@@ -1,0 +1,25 @@
+{
+    "name": "uraankhayayaal/yii2-setting",
+    "description": "Yii2 setting",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," setting"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ayaal Kaplin",
+            "email": "uraankhayayaal@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "uraankhayayaal/yii2-materializecomponents": "*"
+    },
+    "extra": {
+        "bootstrap": "uraankhayayaal\\page\\Bootstrap"
+    },
+    "autoload": {
+        "psr-4": {
+            "uraankhayayaal\\setting\\": "src"
+        }
+    }
+}
