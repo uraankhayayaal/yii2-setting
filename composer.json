@@ -15,7 +15,7 @@
         "uraankhayayaal/yii2-materializecomponents": "*"
     },
     "extra": {
-        "bootstrap": "uraankhayayaal\\page\\Bootstrap"
+        "bootstrap": "uraankhayayaal\\setting\\Bootstrap"
     },
     "autoload": {
         "psr-4": {
